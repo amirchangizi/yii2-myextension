@@ -1,0 +1,24 @@
+{
+    "name": "amir/yii2-myextension",
+    "type": "yii2-extension",
+    "version": "1.1.5",
+	"minimum-stability": "dev",
+    "require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		
+        "files": [
+            "helpers/smart.php",
+            "helpers/array.php"
+        ]
+    },
+	"repositories": [
+        {
+            "type": "path",
+            "url": "https://github.com/amirchangizi/yii2-myextension.gits"
+        }
+    ]
+	
+	
+}
