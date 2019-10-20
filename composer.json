@@ -1,5 +1,5 @@
 {
-    "name": "amir/yii2-myextension",
+    "name": "amir/testMyfirstFile",
     "type": "yii2-extension",
     "version": "1.1.5",
 	"minimum-stability": "dev",
@@ -16,7 +16,7 @@
 	"repositories": [
         {
             "type": "path",
-            "url": "https://github.com/amirchangizi/yii2-myextension.gits"
+            "url": "https://github.com/amirchangizi/testMyfirstFile.gits"
         }
     ]
 	
